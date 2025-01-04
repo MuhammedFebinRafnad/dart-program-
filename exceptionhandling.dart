@@ -5,7 +5,6 @@ void main(){
   }
   catch(ex){
  print("this is not possible");
-
   }
   finally{
     print("this is finally");
