@@ -10,7 +10,7 @@ class Car{
 class Bike implements Car{
   int? age;
   void display(){
-    print("this is electric bike");
+    print("this is a electric bike");
 
   }
   void diplay2(){
