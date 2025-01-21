@@ -1,14 +1,14 @@
-mixin Electriccar{
+mixin Electric{
   void vehicle1(){
       print("this is electric");
   }
 }
-mixin Paterolcar{
+mixin Petrolcar{
    void vehicle2(){
-    print("this is paterol");
+    print("this is petrol");
    }
 }
-class Car with Electriccar,Paterolcar{
+class Car with Electric,Petrol{
  
 }
 void main(){
