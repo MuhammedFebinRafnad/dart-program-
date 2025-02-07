@@ -1,5 +1,5 @@
 // void main(){
-//   List<int>numb=[1,2,3,4,5,6,7,8,9,10];
+//   List<int>numb=[1,2,3,4,5];
 //  numb.forEach((itvalue)=>print(itvalue));
 //   }
 void main(){
