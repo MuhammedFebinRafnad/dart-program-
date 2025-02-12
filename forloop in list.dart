@@ -11,9 +11,9 @@ void main(){
     sum=sum+i;
   }
   print(sum);
-  List<int>numb2=[3,5,2,6,8,4,1,7,9];
+  List<int>numb2=[3,5,9,2,1,];
   numb2.sort();
   print(numb2);
   numb2.shuffle();
   print(numb2);
-}
+}7
